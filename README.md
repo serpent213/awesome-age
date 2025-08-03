@@ -142,6 +142,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [Cryptocam](https://cryptocam.gitlab.io/) — Android app that encrypts video with age as it is recorded.
 
+* [ReactorCA](https://github.com/serpent213/reactor-ca/) — X.509 CA for homelab/SOHO use with central age-encrypted store.
+
 ## Articles
 
 * [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
